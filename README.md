@@ -1,1 +1,1 @@
-# Hackathon IITBH
+# Hackathon IIITBH
