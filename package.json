@@ -4,7 +4,8 @@
   "description": "a money splitter app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/chirudeep37/hackaton/issues"
   },
-  "homepage": "https://github.com/chirudeep37/hackaton#readme"
+  "homepage": "https://github.com/chirudeep37/hackaton#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
 }
